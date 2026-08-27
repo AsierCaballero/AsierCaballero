@@ -37,7 +37,6 @@ Azure, observabilidad y producto digital. Entrega en producción, con handover. 
 | **Cajamar · vía Accenture** | Cloud DevOps | Módulos Terraform de landing zones Azure para sector financiero |
 | **The Sampling Solutions** | Senior Automation | Pipeline GDPR en GCP: iStrays, n8n, Cloud Run, Secret Manager |
 | **Claxo** | Lead Developer — SaaS B2B | Inventario para concesionarios: Next.js, TypeScript, Stripe, analytics |
-| **CT Automatismos** | Fullstack + seguridad | E-commerce industrial multiidioma (6 idiomas), auditoría y remediación |
 
 Más detalle (reto / enfoque / resultado): [asiercaballero.vercel.app](https://asiercaballero.vercel.app)
 
