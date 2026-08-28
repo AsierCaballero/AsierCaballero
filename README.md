@@ -29,14 +29,14 @@ Azure, observabilidad y producto digital. Entrega en producción, con handover. 
 
 ## Trabajo seleccionado
 
-| Cliente | Periodo | Rol | Qué aporté |
-| --- | --- | --- | --- |
-| **VGED / Volkswagen Group España** | Nov 2025 – Jun 2026 | Principal Cloud Architect | Azure desde cero (CAF), **25+** módulos Terraform, AKS + Velero, auditoría **97,6%** conformidad |
-| **Cipher / Prosegur** | May 2026 | Senior DevOps — XDR | Jenkins → Azure DevOps, **37** microservicios, **222** manifiestos Argo CD, zero downtime |
-| **Movildata** | Ene 2026 – Jul 2026 | Senior DevOps | Observabilidad Grafana/Loki/Prometheus (**25+** apps), Terraform, GitLab CI · AWS |
-| **Cajamar · vía Accenture** | Nov 2025 – Feb 2026 | Cloud DevOps | Módulos Terraform de landing zones Azure para sector financiero |
-| **The Sampling Solutions** | Abr 2026 – Jul 2026 | Senior Automation | Pipeline GDPR en GCP: iStrays, n8n, Cloud Run, Secret Manager |
-| **Claxo** | Mar 2026 | Lead Developer — SaaS B2B | Inventario para concesionarios: Next.js, TypeScript, Stripe, analytics |
+| Cliente | Rol | Qué aporté |
+| --- | --- | --- |
+| **VGED / Volkswagen Group España** | Principal Cloud Architect | Azure desde cero (CAF), **25+** módulos Terraform, AKS + Velero, auditoría **97,6%** conformidad |
+| **Cipher / Prosegur** | Senior DevOps — XDR | Jenkins → Azure DevOps, **37** microservicios, **222** manifiestos Argo CD, zero downtime |
+| **Movildata** | Senior DevOps | Observabilidad Grafana/Loki/Prometheus (**25+** apps), Terraform, GitLab CI · AWS |
+| **Cajamar · vía Accenture** | Cloud DevOps | Módulos Terraform de landing zones Azure para sector financiero |
+| **The Sampling Solutions** | Senior Automation | Pipeline GDPR en GCP: iStrays, n8n, Cloud Run, Secret Manager |
+| **Claxo** | Lead Developer — SaaS B2B | Inventario para concesionarios: Next.js, TypeScript, Stripe, analytics |
 
 Más detalle (reto / enfoque / resultado): [asiercaballero.vercel.app](https://asiercaballero.vercel.app)
 
