@@ -6,6 +6,8 @@ Azure, observabilidad y producto digital. Entrega en producción, con handover. 
 
 **[Web](https://asiercaballero.vercel.app)** · **[Reservar una llamada](https://calendly.com/asier-caballero)** · [asier.caballero1@gmail.com](mailto:asier.caballero1@gmail.com) · +34 671 383 886 · [CV (MAC)](https://github.com/AsierCaballero/cv_json)
 
+Disponible para engagements (proyecto cerrado o retainer part-time).
+
 ---
 
 ## Qué resuelvo
@@ -48,10 +50,10 @@ Repos seleccionados para demostrar cómo trabajo en engagements reales — no de
 
 | Repo | Para quién | Señal |
 | --- | --- | --- |
-| [**opa-policies**](https://github.com/AsierCaballero/opa-policies) | Equipos que necesitan compliance en CI | Policy-as-code (K8s, Terraform, Docker, Actions) |
 | [**terraform-module-azure-aks**](https://github.com/AsierCaballero/terraform-module-azure-aks) | Empresas que levantan AKS en prod | Módulo AKS (privado, OIDC, Defender, Policy) |
 | [**idp-platform**](https://github.com/AsierCaballero/idp-platform) | Orgs que quieren self-service + GitOps | IDP: repos, CI, namespaces, ArgoCD |
-| [**homelab**](https://github.com/AsierCaballero/homelab) | Quien valora ops hands-on | IaC: Traefik, VPN, backups, monitoring |
+| [**opa-policies**](https://github.com/AsierCaballero/opa-policies) | Equipos que necesitan compliance en CI | Policy-as-code (K8s, Terraform, Docker, Actions) |
+| [**sre-observability-platform**](https://github.com/AsierCaballero/sre-observability-platform) | Equipos que miden MTTR / SLI en prod | Stack observabilidad (Prometheus, Grafana, Loki, Jaeger) |
 
 ---
 
